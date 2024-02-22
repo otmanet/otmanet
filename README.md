@@ -4,7 +4,7 @@
 <h4>Contract me :</h4> <br>
 <p align="center">
 <samp>
-<a  href="">Linkdin</a> <br>
+<a  href="https://www.linkedin.com/in/otmane-tahri-a2a9741a2/">Linkdin</a> <br>
 <a  href="">Portfolio</a> <br>
 </samp>
 </p>
