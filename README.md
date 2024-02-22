@@ -10,6 +10,7 @@
 <!-- About Section -->
  # About me
 <p>
+<img src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif" align="right" width="350"  alt="Coding gif">
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
