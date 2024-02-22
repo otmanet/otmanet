@@ -1,8 +1,8 @@
 # Hi 👋 My name is <b> Otmane Tahri</b>
 ## Software Developer
 <hr>
+<h4>Contract me :</h4> <br>
 <p align="center">
- <b>Contract me :</b> <br>
 <samp>
 <a  href="">Linkdin</a> <br>
 <a  href="">Portfolio</a> <br>
