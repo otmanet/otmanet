@@ -10,7 +10,7 @@
 <!-- About Section -->
  # About me
 <p>
-<img src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif" align="right" width="350"  alt="Coding gif">
+<!-- <&img src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif" align="right" width="350"  alt="Coding gif">--->
  ✌️ derive immense satisfaction from engaging in programming activities and enthusiastically sharing my knowledge with others. My passion lies in crafting code and continually expanding my skill set by embracing new features and technologies. For any inquiries or communication, feel free to reach out to me at <a href="otmanetahri1@gmail.com">otmanetahri1@gmail.com</a>. I am readily available to connect at your convenience.
 </p>
 <!---
