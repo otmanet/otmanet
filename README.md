@@ -2,7 +2,7 @@
 ## Software Developer
 <hr>
 <p align="center">
- <b>Contract me :</b>
+ <b>Contract me :</b> <br>
 <samp>
 <a  href="">Linkdin</a> <br>
 <a  href="">Portfolio</a> <br>
