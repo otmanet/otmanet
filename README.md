@@ -1,4 +1,4 @@
-# Hi 👋 My name is Otmane Tahri
+# Hi 👋 My name is <b> Otmane Tahri</b>
 ## Software Developer
 <hr>
 <!---
