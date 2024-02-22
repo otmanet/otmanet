@@ -5,7 +5,7 @@
 <p align="center">
 <samp>
 <a  href="https://www.linkedin.com/in/otmane-tahri-a2a9741a2/">Linkdin</a> <br>
-<a  href="">Portfolio</a> <br>
+<a  href="https://otmanet.github.io/OtmaneTahri-Portfolio/" style ="background-color:#fff">Portfolio</a> <br>
 </samp>
 </p>
 <!---
