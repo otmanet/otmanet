@@ -1,12 +1,18 @@
 # Hi 👋 My name is <b> Otmane Tahri</b>
 ## Software Developer
-<hr>
 <h4>Contract me :</h4> <br>
 <p align="center">
 <samp>
 <a  href="https://www.linkedin.com/in/otmane-tahri-a2a9741a2/">Linkdin</a> <br>
-<a  href="https://otmanet.github.io/OtmaneTahri-Portfolio/" style ="background-color:#fff">Portfolio</a> <br>
+<a  href="https://otmanet.github.io/OtmaneTahri-Portfolio/">Portfolio</a> <br>
 </samp>
+</p>
+<!-- About Section -->
+ # About me
+<p>
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
 </p>
 <!---
 otmanet/otmanet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
