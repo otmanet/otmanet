@@ -33,6 +33,13 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Java 17](https://img.shields.io/badge/Java-8%2B-blue)
-
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-2021.3-blue?logo=intellij-idea)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.6.4-green?logo=spring)
+![SQL](https://img.shields.io/badge/SQL-Support-blue?logo=sql)
+![MySQL](https://img.shields.io/badge/MySQL-Support-blue?logo=mysql)
+![SQL Server](https://img.shields.io/badge/SQL_Server-Support-blue?logo=microsoft-sql-server)
+![Java Swing](https://img.shields.io/badge/Java_Swing-Used-green?logo=java)
+![Laravel](https://img.shields.io/badge/Laravel-8.x-red?logo=laravel)
+![Angular](https://img.shields.io/badge/Angular-12-red?logo=angular)
 <br/>
  
