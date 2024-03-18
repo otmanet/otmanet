@@ -34,6 +34,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Java 17](https://img.shields.io/badge/Java-8%2B-blue)
 ![Java Swing](https://img.shields.io/badge/Java_Swing-Used-green?logo=java)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.6.4-green?logo=spring)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Support-blue?logo=sql)
