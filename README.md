@@ -35,7 +35,7 @@
 ![Java 17](https://img.shields.io/badge/Java-8%2B-blue)
 ![Java Swing](https://img.shields.io/badge/Java_Swing-Used-green?logo=java)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.6.4-green?logo=spring)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.6.4-green?logo=spring](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot))
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Support-blue?logo=sql)
 ![MySQL](https://img.shields.io/badge/MySQL-Support-blue?logo=mysql)
