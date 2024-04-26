@@ -1,5 +1,5 @@
 # Hi 👋 My name is <b> Otmane Tahri</b>
-## Software Developer
+## FullStack Developer
 <h4>Contract me :</h4> <br>
 <p align="center">
 <samp>
