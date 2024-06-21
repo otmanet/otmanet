@@ -53,7 +53,6 @@
 ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white)
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otmanet&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otmanet&hide=contribs,prs)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otmanet)](https://github.com/otmanet/github-readme-stats)
 
