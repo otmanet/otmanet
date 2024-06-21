@@ -52,6 +52,8 @@
 ![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otmanet&hide=contribs,prs)
+
 <br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otmanet)](https://github.com/otmanet/github-readme-stats)
