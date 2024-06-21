@@ -56,7 +56,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otmanet&hide=contribs,prs)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otmanet)](https://github.com/otmanet/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=otmanet)](https://github.com/otmanet/github-readme-stats)
+
 
 
 
