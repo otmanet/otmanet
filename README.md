@@ -53,4 +53,4 @@
 ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white)
 
 <br/>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otmanet)](https://github.com/anuraghazra/github-readme-stats)
