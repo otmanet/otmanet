@@ -53,7 +53,7 @@
 ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white)
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otmanet&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otmanet&hide_progress=true)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=otmanet)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 ## 🏆 GitHub Trophies
 [![trophy](https://github-trophies.vercel.app/?username=otmanet&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)
