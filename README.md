@@ -9,7 +9,7 @@
 </p>
 <!-- About Section -->
 
- # About me
+ # ℹ️ About me
  
 <p>
 <!-- <&img src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif" align="right" width="350"  alt="Coding gif">--->
@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-## Use To Code
+## 💻 Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -54,8 +54,7 @@
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otmanet&show_icons=true&theme=radical)
 <br/>
-
-
-
+## 🏆 GitHub Trophies
+[![trophy](https://github-trophies.vercel.app/?username=otmanet&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)
 
 
