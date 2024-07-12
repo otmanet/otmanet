@@ -53,7 +53,7 @@
 ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white)
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otmanet&show_icons=true&theme=radical)
-[[![GitHub Trends SVG](https://api.githubtrends.io/otmanet/svg/avgupta456/langs)](https://githubtrends.io)](https://api.githubtrends.io/user/svg/otmanet/langs?time_range=one_year&theme=dark)
+[[[![GitHub Trends SVG](https://api.githubtrends.io/otmanet/svg/avgupta456/langs)](https://githubtrends.io)](https://api.githubtrends.io/user/svg/otmanet/langs?time_range=one_year&theme=dark)](https://api.githubtrends.io/user/svg/otmanet/langs?time_range=one_year&theme=dark)
 <br/>
 ## 🏆 GitHub Trophies
 [![trophy](https://github-trophies.vercel.app/?username=otmanet&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)
