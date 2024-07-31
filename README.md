@@ -4,7 +4,7 @@
 <p align="center">
 <samp>
 <a  href="https://www.linkedin.com/in/otmane-tahri-a2a9741a2/">Linkdin</a> <br>
-<a  href="https://otmanet.github.io/OtmaneTahri-Portfolio/">Portfolio</a> <br>
+<a  href="https://portfolio-2af6d.web.app">Portfolio</a> <br>
 </samp>
 </p>
 <!-- About Section -->
