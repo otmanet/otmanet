@@ -1,56 +1,49 @@
-# Hi 👋 My name is <b> Otmane Tahri</b>
-## FullStack Developer
-<h4>Contract me :</h4> <br>
-<p align="center">
-<samp>
-<a  href="https://www.linkedin.com/in/otmane-tahri-a2a9741a2/">Linkdin</a> <br>
-<a  href="https://portfolio-2af6d.web.app">Portfolio</a> <br>
-</samp>
+![👋 Hi, my name is Otmane tahri](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+
+![Profile views](https://komarev.com/ghpvc/?username=otmanet&label=Profile%20views&color=0e75b6&style=flat)
+
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Otmane tahri
+      </h1>
+    </summary>
+  </ul>
+</div>
+
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://www.facebook.com/profile.php?id=100009301717423" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/otmane_tahiri_0" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/otmane-tahri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/otmanet" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+
+ **<h3 align="left">🚀 Enthusiastic Software developer with a Master's in Analysis and Design of Computer Systems, eager to leverage my well-rounded skill set for building impactful web applications. My passion for coding started young and has fueled a deep understanding of both front-end and back-end development. I'm proficient in JavaScript, Typescript, Nodejs, ExpressJS,Java, Spring Boot, and Angular, and I bring valuable experience from developing CRM and ERP systems.</h3>**
+
+**<h3 align="left">Rapid Fire</h3>**
+
+- 💼 I'm currently working on: **💻 Developed scalable CRM/ERP solutions using the MEAN stack (MongoDB, Express.js, Angular, Node.js)**
+- 🌱 I'm currently learning: **📚 Exploring Zustand**
+- 💬 Ask me about: **💡 JavaScript, TypeScript, Angular, Node.js, MongoDB, SQL, and RESTful APIs**
+- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
+- 📂 Portfolio: **<a href="https://www.otmanetahri.me/" target="_blank">https://www.otmanetahri.me/</a>**
+- 📝 Blog: **<a href=" https://www.otmanetahri.me/blog" target="_blank"> https://www.otmanetahri.me/blog</a>**
+
+
+ **<h3 align="left">Skills</h3>**
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="Node.js" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="32" alt="Node.js" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" alt="Express" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="32" alt="Express" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="32" alt="Spring" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="32" alt="Spring" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" height="32" alt="Vue.js" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="32" alt="Angular" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="32" alt="HTML5" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="32" alt="CSS3" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="32" alt="Sass" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" alt="Bootstrap" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="32" alt="React" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="32" alt="Firebase" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="32" alt="Intellij" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="32" alt="VSCode" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="32" alt="Visual Studio" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="32" alt="Photoshop" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="32" alt="Jest" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="32" alt="Jenkins" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="32" alt="Git" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height="32" alt="GitHub" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="32" alt="GCP" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" height="32" alt="Chart.js" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="32" alt="MongoDB" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" height="32" alt="SQLite" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="32" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="32" alt="Microsoft SQL Server" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="32" alt="Java" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="32" alt="Nginx" style="margin-right: 4px"></div>
+
+ **<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=otmanet&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23&locale=en" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=otmanet&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub streak Card" />
 </p>
-<!-- About Section -->
 
- # ℹ️ About me
- 
-<p>
-<!-- <&img src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif" align="right" width="350"  alt="Coding gif">--->
- ✌️ &emsp;derive immense satisfaction from engaging in programming activities and enthusiastically sharing my knowledge with others.<br/><br/>
- ❤️ &emsp;My passion lies in crafting code and continually expanding my skill set by embracing new features and technologies.<br/><br/>
- 📧 &emsp;For any inquiries or communication, feel free to reach out to me at <a href="otmanetahri1@gmail.com">otmanetahri1@gmail.com</a>. I am readily available to connect at your convenience.<br/><br/>
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=otmanet&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=otmanet&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
 </p>
-<br/>
-<br/>
-<br/>
 
-## 💻 Use To Code
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-8%2B-blue)
-![Java Swing](https://img.shields.io/badge/Java_Swing-Used-green?logo=java)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![Chartjs](	https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-![Stack overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-8.x-red?logo=laravel)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Support-blue?logo=sql)
-![MySQL](https://img.shields.io/badge/MySQL-Support-blue?logo=mysql)
-![SQL Server](https://img.shields.io/badge/SQL_Server-Support-blue?logo=microsoft-sql-server)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-2021.3-blue?logo=intellij-idea)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-12-red?logo=angular)
-![AngularJs](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white)
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otmanet&show_icons=true&theme=radical)
 ## 🏆 GitHub Trophies
