@@ -42,9 +42,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=otmanet&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=otmanet&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
 </p>
-
-
-<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otmanet&show_icons=true&theme=radical)
 ## 🏆 GitHub Trophies
 [![trophy](https://github-trophies.vercel.app/?username=otmanet&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)
