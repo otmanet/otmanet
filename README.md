@@ -43,7 +43,8 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=otmanet&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
 </p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otmanet&show_icons=true&theme=radical)
-## 🏆 GitHub Trophies
+**<h3 align="left">GitHub Trophies</h3>**
+
 [![trophy](https://github-trophies.vercel.app/?username=otmanet&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)
 
 
