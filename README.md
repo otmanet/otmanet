@@ -82,15 +82,17 @@
 
 ## 📊 GitHub Stats
 
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=otmanet&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=otmanet&theme=radical)](https://github.com/otmanet/github-readme-stats-fast)
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-trophies.vercel.app/?username=otmanet&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)
-
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=otmanet&theme=radical)](https://github.com/otmanet/github-readme-stats-fast)
 
 ---
 
