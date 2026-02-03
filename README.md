@@ -82,11 +82,16 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=otmanet&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=otmanet&theme=radical)](https://github.com/otmanet/github-readme-stats-fast)
-</div>
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=otmanet&show_icons=true&theme=radical" alt="GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=otmanet&theme=radical" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
