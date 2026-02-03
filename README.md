@@ -96,7 +96,13 @@
 <table>
   <tr>
      <td>
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=otmanet&layout=donut-vertical)](https://github.com/otmanet/github-readme-stats" alt="GitHub Streak" />
+      <a href="https://github.com/otmanet/github-readme-stats">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=otmanet&layout=donut-vertical" alt="Top Languages" width="48%" />
+</a>
+
+<a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=PraneshJs" alt="WakaTime stats" width="48%" />
+</a>
     </td>
   </tr>
 </table>
