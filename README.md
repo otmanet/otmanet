@@ -98,13 +98,22 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=otmanet&theme=react&count_private=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=otmanet&theme=react" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=otmanet&show_icons=true&theme=react"
+    width="48%"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=otmanet&theme=react"
+    width="48%"
+  />
 </p>
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=otmanet&layout=compact&theme=react" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=otmanet&layout=compact&theme=react"
+    width="48%"
+  />
 </p>
 
 ---
