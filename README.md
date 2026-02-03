@@ -101,8 +101,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
-  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=PraneshJs" alt="WakaTime stats" width="48%" />
+      <a href="https://github.com/otmanet/github-readme-stats-fast">
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=otmanet" alt="WakaTime stats" width="48%" />
 </a>
     </td>
   </tr>
