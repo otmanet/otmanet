@@ -81,7 +81,7 @@
 ---
 
 ## 📊 GitHub Stats
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="32" alt="Nginx" style="margin-right: 4px"></div>
 <div align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=otmanet&theme=react&show_icons=true&count_private=true" alt="GitHub stats" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=otmanet&theme=react" alt="GitHub streak" />
