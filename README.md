@@ -90,7 +90,7 @@
 
 [![trophy](https://github-trophies.vercel.app/?username=otmanet&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)
 
-[![Gist Card](https://github-readme-stats-fast.vercel.app/api/gist?id=1345eef09799d4e6ac4c9cce08805875)](https://gist.github.com/otmanet/1345eef09799d4e6ac4c9cce08805875/)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=otmanet&theme=radical)](https://github.com/otmanet/github-readme-stats-fast)
 
 ---
 
