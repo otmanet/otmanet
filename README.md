@@ -96,9 +96,9 @@
 <table>
   <tr>
      <td>
-      <a href="https://github.com/otmanet/github-readme-stats">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=otmanet&layout=donut-vertical" alt="Top Languages" width="48%" />
-      </a>
+       
+      [![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=otmanet)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+      
     </td>
   </tr>
     
