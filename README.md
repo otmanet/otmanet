@@ -90,6 +90,9 @@
     <td>
       <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=otmanet&theme=radical" alt="GitHub Streak" />
     </td>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=otmanet&hide_progress=true" alt="GitHub Streak" />
+    </td>
   </tr>
 </table>
 
