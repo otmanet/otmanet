@@ -100,11 +100,6 @@
         <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=otmanet&layout=donut-vertical" alt="Top Languages" width="48%" />
       </a>
     </td>
-    <td>
-      <a href="https://github.com/otmanet/github-readme-stats-fast">
-  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=otmanet" alt="WakaTime stats" width="48%" />
-</a>
-    </td>
   </tr>
     
 </table>
