@@ -93,7 +93,7 @@
   </tr>
 </table>
 
- [![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=otmanet)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+ [![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=otmanet)](https://github.com/otmanet/github-readme-stats-fast)
 
 ---
 
