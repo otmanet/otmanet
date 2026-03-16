@@ -50,8 +50,8 @@
 - 🤖 Specializing in: **n8n workflows, RAG systems, OCR/PDF automation**
 - 💬 Ask me about: **Node.js, Angular, AI automation, system design**
 - ⚡ Fun fact: **I once debugged a production issue on a roller coaster 🎢**
-- 📂 Portfolio: https://www.otmanetahri.me
-- 📝 Blog: https://www.otmanetahri.me/blog
+- 📂 Portfolio: https://www.otmanetahri.com
+- 📝 Blog: https://www.otmanetahri.com/blog
 
 ---
 
